@@ -1,3 +1,13 @@
+/*
+2 ===============================================================
+3 DISCIPLINA: ALGORITIMOS E PROGRAMACAO I
+4 PROFESSOR: GUSTAVO MOREIRA CALIXTO
+5 ALUNO: ISAQUE PEREIRA MARQUES DA SILVA
+6 ---------------------------------------------------------------
+7 PTI: O uso dos algoritimos e da programacao nas tarefas do cotidiano
+8 ===============================================================
+9 */
+
 // Alertas iniciais com a temática do PTI
 alert("Gasolina ou Álcool?")
 alert("Descubra agora!")
