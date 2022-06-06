@@ -1,2 +1,2 @@
 # PTI-AP1
-<img src= "../img/postoIpiranga.png">
+<img src= "/img/postoIpiranga.png" alt = "PTI">
