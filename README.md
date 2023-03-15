@@ -1,5 +1,5 @@
 <h1> Produção Textual Individual - Algoritmos e programação 1</h1>
-<img src= "/img/postoIpiranga.png" alt = "PTI">
+<img src= "/img/postoIpiranga.png" width= 100% alt = "PTI">
 <h2> Tema - O uso dos algoritmos e da programação nas tarefas do cotidiano</h2>
 <h2>Texto base: </h2>
 Existe aplicações simples que podemos desenvolver e que ajuda e muito no nosso cotidiano. É uma grande dúvida quando vamos abastercer um veículo saber qual combustível é mais vantajoso: álcool ou gasolina. A relação de consumo entre álcool e gasolina é de 70%, ou seja, se temos o mesmo volume de combustível, a energia gerada por 70% do consumo de gasolina é o mesmo de 100% do consumo de álcool. Tendo esta informação, conseguimos saber, na hora de abastecer, qual combustível é o mais vantajoso, dividindo o preço do álcool pelo preço da gasolina.
