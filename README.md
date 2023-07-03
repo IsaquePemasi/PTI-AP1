@@ -18,3 +18,5 @@ supply any one of them).
 B) Consider that afterwards, the program must ask the user if he wants to
 perform a new calculation: if the user confirms that yes, the program
 asks for the inputs again. Otherwise, the program is terminated.
+<h2 align="center">Autor</h2>
+<a href="https://github.com/IsaquePemasi/"><img src="https://avatars.githubusercontent.com/u/76749511?v=4" width=115></a>
